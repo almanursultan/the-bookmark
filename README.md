@@ -127,15 +127,16 @@ Example:
 
 ```json
 [
-{
-"id": 1,
-"title": "Housemates: A Novel",
-"author": "Emma Copley Eisenberg",
-"genre": "Fiction",
-"description": "Two young housemates embark on a road trip ...",
-"rating": 3.6
-}
+  {
+    "id": 1,
+    "title": "Housemates: A Novel",
+    "author": "Emma Copley Eisenberg",
+    "genre": "Fiction",
+    "description": "Two young housemates embark on a road trip ...",
+    "rating": 3.6
+  }
 ]
+```
 
 Join Book Club - Endpoint: POST /clubs/join
 
@@ -174,4 +175,7 @@ Private Book Clubs: Allow users to create private clubs.
 Notifications: Notify users about new discussions in their book clubs.
 
 User Profiles: Display user activity and favorite books.
+
+```
+
 ```
