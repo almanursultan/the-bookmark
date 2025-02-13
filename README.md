@@ -104,7 +104,7 @@ APIs:
 
 ### Mockups
 
-![Mockup Preview](public/images/mock-up.png)
+![Mockup Preview](./src/images/mock-up.png)
 
 ### Data
 
@@ -123,7 +123,10 @@ User Signup - Endpoint: POST /auth/signup
 User Login - Endpoint: POST /auth/login
 
 Search Books - Endpoint: GET /books?query=title
-Example: [
+Example:
+
+```json
+[
 {
 "id": 1,
 "title": "Housemates: A Novel",
@@ -171,3 +174,4 @@ Private Book Clubs: Allow users to create private clubs.
 Notifications: Notify users about new discussions in their book clubs.
 
 User Profiles: Display user activity and favorite books.
+```
