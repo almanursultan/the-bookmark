@@ -104,7 +104,7 @@ APIs:
 
 ### Mockups
 
-/src/images/mock-up.png
+![Mockup Preview](public/images/mock-up.png)
 
 ### Data
 
