@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "club_name": "The Hogwarts Society",
+    "description": "A dedicated group of fans exploring the magical world of Harry Potter, starting with the very first book in the series.",
+    "members": 128
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "club_name": "Gatsby Gala",
+    "description": "A lively community discussing the Roaring Twenties, American dreams, and the tragic beauty of Gatsby's story.",
+    "members": 42
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "club_name": "The Austen Admirers",
+    "description": "A passionate group exploring themes of love, social standing, and wit in Austen’s world.",
+    "members": 87
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "club_name": "Mockingbird Musings",
+    "description": "A forum delving into the themes of racial injustice and moral growth in this timeless classic.",
+    "members": 64
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "club_name": "Big Brother Book Club",
+    "description": "A group dissecting the dangers of totalitarianism and the power of propaganda.",
+    "members": 75
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "club_name": "Fellowship of the Book",
+    "description": "Fans of Middle-earth, discussing the epic journey and the profound lore crafted by Tolkien.",
+    "members": 230
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "club_name": "The Holden Caulfield Collective",
+    "description": "Exploring teenage angst, alienation, and identity in Salinger’s classic narrative.",
+    "members": 51
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "club_name": "Whale Watchers",
+    "description": "A sea-faring club embarking on deep discussions about obsession and the human condition.",
+    "members": 39
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "club_name": "Unexpected Journey Club",
+    "description": "Fans of Bilbo’s adventures, exploring the roots of Tolkien’s legendarium before LOTR.",
+    "members": 142
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "club_name": "Book Burner Busters",
+    "description": "Readers analyzing censorship, the value of knowledge, and Bradbury’s prophetic vision.",
+    "members": 58
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "club_name": "All Animals Are Equal",
+    "description": "A club interpreting the allegorical satire of revolution, power, and corruption.",
+    "members": 60
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "club_name": "The Soma Society",
+    "description": "Discussions on the cost of blissful ignorance and the societal implications of genetic engineering.",
+    "members": 95
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "club_name": "Moral Dilemmas Reading Group",
+    "description": "Examining the psychological turmoil and moral debates in Dostoevsky’s masterpiece.",
+    "members": 48
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "club_name": "Friends of the Barricade",
+    "description": "Exploring themes of redemption, revolution, and love in 19th-century France.",
+    "members": 37
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "club_name": "Baker Street Brigade",
+    "description": "Mystery enthusiasts discussing Holmes’s keen observations and investigative prowess.",
+    "members": 66
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "club_name": "Napoleonic Narratives",
+    "description": "A deep dive into Tolstoy’s epic exploration of society, history, and philosophy.",
+    "members": 29
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "club_name": "Chamber Seekers",
+    "description": "Continuing the wizarding journey with discussion on the second installment in Harry Potter’s adventures.",
+    "members": 111
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "club_name": "March Sisters Circle",
+    "description": "Fans of this beloved classic exploring themes of family, love, and independence.",
+    "members": 54
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "club_name": "The Thornfield Assemblage",
+    "description": "Discussing governess life, Gothic romance, and the strong will of Jane Eyre.",
+    "members": 72
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "club_name": "Heathcliff’s Haven",
+    "description": "A passionate group unraveling the haunting and complex love story on the moors.",
+    "members": 45
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "club_name": "Dust Bowl Dreamers",
+    "description": "A community examining the struggles of the Great Depression and the resilience of the human spirit.",
+    "members": 31
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "club_name": "Personal Legend Club",
+    "description": "Seekers of wisdom and destiny, reflecting on life's journey and self-discovery.",
+    "members": 102
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "club_name": "Portrait & Paradox",
+    "description": "Exploring aesthetic philosophy, morality, and the cost of eternal youth.",
+    "members": 34
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "club_name": "Revolution Readers",
+    "description": "A group discussing dualities of London and Paris during the French Revolution.",
+    "members": 71
+  },
+  {
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "club_name": "Wardrobe Wanderers",
+    "description": "Exploring the magical realm of Narnia, its allegories, and timeless adventures.",
+    "members": 120
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "club_name": "Tralfamadorian Tales",
+    "description": "Fans dissecting the nonlinear narrative, wartime experiences, and philosophical musings.",
+    "members": 41
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "club_name": "Pip’s Journey",
+    "description": "Tracing the growth of Pip, class consciousness, and the transformative power of ambition.",
+    "members": 56
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "club_name": "Creators & Creatures",
+    "description": "Examining the ethics of creation, humanity, and scientific responsibility.",
+    "members": 44
+  },
+  {
+    "title": "Sense and Sensibility",
+    "author": "Jane Austen",
+    "club_name": "Dashwood Discussions",
+    "description": "Exploring love, manners, and family in another of Austen’s beloved novels.",
+    "members": 59
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "club_name": "La Mancha Knights",
+    "description": "A literary adventure focusing on chivalry, fantasy, and the blurred lines of reality.",
+    "members": 33
+  }
+]

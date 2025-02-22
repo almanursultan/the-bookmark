@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Sunrise on the Reaping",
+    "author": "Suzanne Collins",
+    "genre": "Dystopian Fiction",
+    "description": "A prequel set 24 years before the original Hunger Games trilogy, focusing on the 50th Hunger Games.",
+    "release_date": "March 18, 2025",
+    "isbn": "9781546171461",
+    "publisher": "Scholastic"
+  },
+  {
+    "title": "Great Big Beautiful Life",
+    "author": "Emily Henry",
+    "genre": "Contemporary Fiction",
+    "description": "Two writers compete to tell the story of a woman with a life full of unexpected twists.",
+    "release_date": "2025",
+    "isbn": "9780593852323",
+    "publisher": "Penguin Random House"
+  },
+  {
+    "title": "Everything Is Tuberculosis",
+    "author": "John Green",
+    "genre": "Non-Fiction",
+    "description": "An exploration of the history and ongoing impact of tuberculosis on humanity.",
+    "release_date": "March 18, 2025",
+    "isbn": "9780525426059",
+    "publisher": "Crash Course Books"
+  },
+  {
+    "title": "Onyx Storm",
+    "author": "Rebecca Yarros",
+    "genre": "Fantasy",
+    "description": "The third installment in the Empyrean series, continuing the saga of dragon riders at Basgiath War College.",
+    "release_date": "January 21, 2025",
+    "isbn": "9781649374135",
+    "publisher": "Entangled Publishing"
+  },
+  {
+    "title": "Audition",
+    "author": "Katie Kitamura",
+    "genre": "Literary Fiction",
+    "description": "An actress becomes entangled in a mysterious relationship during rehearsals in New York City.",
+    "release_date": "April 8, 2025",
+    "isbn": "9780593852323",
+    "publisher": "Riverhead Books"
+  },
+  {
+    "title": "Her Soul for a Crown",
+    "author": "Alysha Rameera",
+    "genre": "Fantasy Romance",
+    "description": "Set against Sri Lankan mythology, an orphan skilled in poisons seeks revenge and makes a pact with a powerful being.",
+    "release_date": "August 12, 2025",
+    "isbn": "9780063200000",
+    "publisher": "HarperCollins"
+  },
+  {
+    "title": "Vianne",
+    "author": "Joanne Harris",
+    "genre": "Historical Fiction",
+    "description": "A prequel to 'Chocolat,' exploring Vianne Rocher's life before arriving in Lansquenet-sous-Tannes.",
+    "release_date": "September 2, 2025",
+    "isbn": "9781643130003",
+    "publisher": "Pegasus Books"
+  },
+  {
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "genre": "Crime Fiction",
+    "description": "A new crime novel featuring the recurring character Holly Gibney.",
+    "release_date": "May 27, 2025",
+    "isbn": "9781668089330",
+    "publisher": "Scribner"
+  },
+  {
+    "title": "The King of Ashes",
+    "author": "S.A. Cosby",
+    "genre": "Crime Thriller",
+    "description": "A gripping thriller delving into crime and its consequences.",
+    "release_date": "2025",
+    "isbn": "9781250830000",
+    "publisher": "Flatiron Books"
+  },
+  {
+    "title": "The Girl You Know",
+    "author": "Elle Gonzalez Rose",
+    "genre": "Young Adult Thriller",
+    "description": "A dark academia thriller about twins at an elite academy uncovering dangerous secrets.",
+    "release_date": "February 18, 2025",
+    "isbn": "9780593200000",
+    "publisher": "Penguin Young Readers"
+  }
+]
