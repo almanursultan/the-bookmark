@@ -48,6 +48,17 @@ The BookBark provides a solution by allowing users to join discussions based on 
 
 ---
 
+## 📂 **API Endpoints**
+
+| **Method** | **Endpoint**                      | **Description**                     |
+| ---------- | --------------------------------- | ----------------------------------- |
+| `GET`      | `/api/books`                      | Fetches all books                   |
+| `GET`      | `/api/books/best-books`           | Fetches best books of 2024          |
+| `GET`      | `/api/book-clubs/:title`          | Fetches book clubs by book title    |
+| `POST`     | `/api/book-clubs/:title/comments` | Adds a new comment to the book club |
+
+---
+
 ## ⚙️**Prerequisites**
 
 - **Node.js:** [Download & Install](https://nodejs.org/)
