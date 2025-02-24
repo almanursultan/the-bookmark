@@ -6,7 +6,8 @@
     "description": "A prequel set 24 years before the original Hunger Games trilogy, focusing on the 50th Hunger Games.",
     "release_date": "March 18, 2025",
     "isbn": "9781546171461",
-    "publisher": "Scholastic"
+    "publisher": "Scholastic",
+    "image": "/book-covers/sunrise-on-the-reaping.avif"
   },
   {
     "title": "Great Big Beautiful Life",
@@ -15,7 +16,8 @@
     "description": "Two writers compete to tell the story of a woman with a life full of unexpected twists.",
     "release_date": "2025",
     "isbn": "9780593852323",
-    "publisher": "Penguin Random House"
+    "publisher": "Penguin Random House",
+    "image": "/book-covers/great-big-beautiful-life.jpg"
   },
   {
     "title": "Everything Is Tuberculosis",
@@ -24,7 +26,8 @@
     "description": "An exploration of the history and ongoing impact of tuberculosis on humanity.",
     "release_date": "March 18, 2025",
     "isbn": "9780525426059",
-    "publisher": "Crash Course Books"
+    "publisher": "Crash Course Books",
+    "image": "/book-covers/everything-is-tuberculosis.jpg"
   },
   {
     "title": "Onyx Storm",
@@ -33,7 +36,8 @@
     "description": "The third installment in the Empyrean series, continuing the saga of dragon riders at Basgiath War College.",
     "release_date": "January 21, 2025",
     "isbn": "9781649374135",
-    "publisher": "Entangled Publishing"
+    "publisher": "Entangled Publishing",
+    "image": "/book-covers/onyx-storm.jpeg"
   },
   {
     "title": "Audition",
@@ -42,7 +46,8 @@
     "description": "An actress becomes entangled in a mysterious relationship during rehearsals in New York City.",
     "release_date": "April 8, 2025",
     "isbn": "9780593852323",
-    "publisher": "Riverhead Books"
+    "publisher": "Riverhead Books",
+    "image": "/book-covers/audition.jpg"
   },
   {
     "title": "Her Soul for a Crown",
@@ -51,7 +56,8 @@
     "description": "Set against Sri Lankan mythology, an orphan skilled in poisons seeks revenge and makes a pact with a powerful being.",
     "release_date": "August 12, 2025",
     "isbn": "9780063200000",
-    "publisher": "HarperCollins"
+    "publisher": "HarperCollins",
+    "image": "/book-covers/her-soul.jpg"
   },
   {
     "title": "Vianne",
@@ -60,7 +66,8 @@
     "description": "A prequel to 'Chocolat,' exploring Vianne Rocher's life before arriving in Lansquenet-sous-Tannes.",
     "release_date": "September 2, 2025",
     "isbn": "9781643130003",
-    "publisher": "Pegasus Books"
+    "publisher": "Pegasus Books",
+    "image": "/book-covers/vianne.jpg"
   },
   {
     "title": "Never Flinch",
@@ -69,7 +76,8 @@
     "description": "A new crime novel featuring the recurring character Holly Gibney.",
     "release_date": "May 27, 2025",
     "isbn": "9781668089330",
-    "publisher": "Scribner"
+    "publisher": "Scribner",
+    "image": "/book-covers/never-flinch.jpg"
   },
   {
     "title": "The King of Ashes",
@@ -78,7 +86,8 @@
     "description": "A gripping thriller delving into crime and its consequences.",
     "release_date": "2025",
     "isbn": "9781250830000",
-    "publisher": "Flatiron Books"
+    "publisher": "Flatiron Books",
+    "image": "/book-covers/king-of-ashes.jpg"
   },
   {
     "title": "The Girl You Know",
@@ -87,6 +96,7 @@
     "description": "A dark academia thriller about twins at an elite academy uncovering dangerous secrets.",
     "release_date": "February 18, 2025",
     "isbn": "9780593200000",
-    "publisher": "Penguin Young Readers"
+    "publisher": "Penguin Young Readers",
+    "image": "/book-covers/the-girl-you-know.jpeg"
   }
 ]

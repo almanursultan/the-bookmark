@@ -4,11 +4,17 @@ import dotenv from "dotenv";
 import bookRoutes from "./src/routes/bookRoutes.js";
 import bookClubRoutes from "./src/routes/bookClubRoutes.js";
 import db from "./db.js";
+import path from "path";
 
 dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 8080;
+
+app.use(
+  "/book-covers",
+  express.static(path.join(process.cwd(), "public/book-covers"))
+);
 
 app.use(cors());
 app.use(express.json());

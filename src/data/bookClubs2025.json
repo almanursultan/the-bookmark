@@ -4,209 +4,575 @@
     "author": "J.K. Rowling",
     "club_name": "The Hogwarts Society",
     "description": "A dedicated group of fans exploring the magical world of Harry Potter, starting with the very first book in the series.",
-    "members": 128
+    "members": 128,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Alice",
+        "text": "The story seamlessly blends the everyday challenges of school life with the extraordinary world of magic. Rowling’s storytelling shines, making this book a fantastic read."
+      },
+      {
+        "id": 2,
+        "name": "Omar",
+        "text": "Can't wait for our next meeting!"
+      },
+      {
+        "id": "8ea9be27-9038-4444-acd8-5214d8ac5752",
+        "name": "Mochi",
+        "text": "My fav book!",
+        "timestamp": "2025-02-24T02:34:47.200Z"
+      }
+    ]
   },
   {
     "title": "The Great Gatsby",
     "author": "F. Scott Fitzgerald",
     "club_name": "Gatsby Gala",
     "description": "A lively community discussing the Roaring Twenties, American dreams, and the tragic beauty of Gatsby's story.",
-    "members": 42
+    "members": 42,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Amanda",
+        "text": "This book is a masterpiece!"
+      },
+      {
+        "id": 2,
+        "name": "Mei",
+        "text": "Love the insights into 1920s society."
+      }
+    ]
   },
   {
     "title": "Pride and Prejudice",
     "author": "Jane Austen",
     "club_name": "The Austen Admirers",
     "description": "A passionate group exploring themes of love, social standing, and wit in Austen’s world.",
-    "members": 87
+    "members": 87,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Luca",
+        "text": "This book club is helping me appreciate literature on a whole new level!"
+      },
+      {
+        "id": 2,
+        "name": "Liyao",
+        "text": "Everyone brought such thoughtful points to the table today."
+      }
+    ]
   },
   {
     "title": "To Kill a Mockingbird",
     "author": "Harper Lee",
     "club_name": "Mockingbird Musings",
     "description": "A forum delving into the themes of racial injustice and moral growth in this timeless classic.",
-    "members": 64
+    "members": 64,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Miranda",
+        "text": "I learned so much from everyone's interpretations—thank you!"
+      },
+      {
+        "id": 2,
+        "name": "Hassan",
+        "text": "The way we broke down that scene was just brilliant."
+      }
+    ]
   },
   {
     "title": "1984",
     "author": "George Orwell",
     "club_name": "Big Brother Book Club",
     "description": "A group dissecting the dangers of totalitarianism and the power of propaganda.",
-    "members": 75
+    "members": 75,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Bek",
+        "text": "I love how deep we go into analyzing the characters and their motivations."
+      },
+      {
+        "id": 2,
+        "name": "Daniel",
+        "text": "The way we broke down that scene was just brilliant."
+      }
+    ]
   },
   {
     "title": "The Lord of the Rings",
     "author": "J.R.R. Tolkien",
     "club_name": "Fellowship of the Book",
     "description": "Fans of Middle-earth, discussing the epic journey and the profound lore crafted by Tolkien.",
-    "members": 230
+    "members": 230,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Emma",
+        "text": "This discussion really opened my eyes to new perspectives!"
+      },
+      {
+        "id": 2,
+        "name": "Fatima",
+        "text": "This discussion really opened my eyes to new perspectives!"
+      }
+    ]
   },
   {
     "title": "The Catcher in the Rye",
     "author": "J.D. Salinger",
     "club_name": "The Holden Caulfield Collective",
     "description": "Exploring teenage angst, alienation, and identity in Salinger’s classic narrative.",
-    "members": 51
+    "members": 51,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Nadia",
+        "text": "This book keeps you engaged from start to finish. The story unfolds with perfect pacing, and each chapter leaves you eager to dive into the next."
+      },
+      {
+        "id": 2,
+        "name": "Thabo",
+        "text": "The author’s writing style is both elegant and accessible. The prose flows naturally, making this book a pleasure to read."
+      }
+    ]
   },
   {
     "title": "Moby-Dick",
     "author": "Herman Melville",
     "club_name": "Whale Watchers",
     "description": "A sea-faring club embarking on deep discussions about obsession and the human condition.",
-    "members": 39
+    "members": 39,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Liam",
+        "text": "This book offers more than just an engaging story—it also provides a deeper message that resonates. It leaves you thinking long after the final page."
+      },
+      {
+        "id": 2,
+        "name": "Aarav",
+        "text": "This book exceeded expectations, offering a fresh perspective and a story that’s both original and captivating. A wonderful addition to any bookshelf!"
+      }
+    ]
   },
   {
     "title": "The Hobbit",
     "author": "J.R.R. Tolkien",
     "club_name": "Unexpected Journey Club",
     "description": "Fans of Bilbo’s adventures, exploring the roots of Tolkien’s legendarium before LOTR.",
-    "members": 142
+    "members": 142,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Yara",
+        "text": "This book strikes a great balance between storytelling and depth. It entertains while also offering moments of reflection and insight."
+      },
+      {
+        "id": 2,
+        "name": "Ibrahim",
+        "text": "This book takes you through a spectrum of emotions. It has moments of joy, sadness, and inspiration, all wrapped up in a compelling narrative."
+      }
+    ]
   },
   {
     "title": "Fahrenheit 451",
     "author": "Ray Bradbury",
     "club_name": "Book Burner Busters",
     "description": "Readers analyzing censorship, the value of knowledge, and Bradbury’s prophetic vision.",
-    "members": 58
+    "members": 58,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Yusuf",
+        "text": "The world-building (whether fictional or real) is fantastic. The author paints vivid pictures with words, bringing the story to life."
+      },
+      {
+        "id": 2,
+        "name": "Matteo",
+        "text": "Whether you need a break from reality or just want a good story, this book offers a perfect escape. It transports you to another world, if only for a little while."
+      }
+    ]
   },
   {
     "title": "Animal Farm",
     "author": "George Orwell",
     "club_name": "All Animals Are Equal",
     "description": "A club interpreting the allegorical satire of revolution, power, and corruption.",
-    "members": 60
+    "members": 60,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Leila",
+        "text": "This book is a must-read for fans of the genre and newcomers alike. It offers a bit of everything—great writing, memorable characters, and a story worth telling."
+      },
+      {
+        "id": 2,
+        "name": "Emir",
+        "text": "This book pulls you in from the first page and keeps your attention until the end. The storyline is intriguing, and the characters feel genuine.!"
+      }
+    ]
   },
   {
     "title": "Brave New World",
     "author": "Aldous Huxley",
     "club_name": "The Soma Society",
     "description": "Discussions on the cost of blissful ignorance and the societal implications of genetic engineering.",
-    "members": 95
+    "members": 95,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Kiana",
+        "text": "Engages readers with its rich narrative and well-developed characters. The story flows naturally, making it hard to put down."
+      },
+      {
+        "id": 2,
+        "name": "Felix",
+        "text": "Balances a compelling storyline with deep, heartfelt moments. Offers both entertainment and thoughtful insights."
+      }
+    ]
   },
   {
     "title": "Crime and Punishment",
     "author": "Fyodor Dostoevsky",
     "club_name": "Moral Dilemmas Reading Group",
     "description": "Examining the psychological turmoil and moral debates in Dostoevsky’s masterpiece.",
-    "members": 48
+    "members": 48,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Arjun",
+        "text": "Delivers suspense, excitement, and just the right amount of surprises. Each chapter adds to the intrigue and keeps you invested."
+      },
+      {
+        "id": 2,
+        "name": "Aaliyah",
+        "text": "Takes readers through a spectrum of feelings, leaving a lasting impact. The story is both poignant and uplifting."
+      }
+    ]
   },
   {
     "title": "Les Misérables",
     "author": "Victor Hugo",
     "club_name": "Friends of the Barricade",
     "description": "Exploring themes of redemption, revolution, and love in 19th-century France.",
-    "members": 37
+    "members": 37,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Levent",
+        "text": "Showcases the author’s talent for storytelling and world-building. The writing style is clear, evocative, and beautifully executed."
+      },
+      {
+        "id": 2,
+        "name": "Dante",
+        "text": "Offers more than just a story—provides valuable lessons and perspectives. Leaves readers with a sense of fulfillment and inspiration."
+      }
+    ]
   },
   {
     "title": "The Adventures of Sherlock Holmes",
     "author": "Arthur Conan Doyle",
     "club_name": "Baker Street Brigade",
     "description": "Mystery enthusiasts discussing Holmes’s keen observations and investigative prowess.",
-    "members": 66
+    "members": 66,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Imani",
+        "text": "Blends engaging storytelling with memorable characters. Perfect for anyone looking for a bit of escapism and joy."
+      },
+      {
+        "id": 2,
+        "name": "Astrid",
+        "text": "Challenges readers to think deeply about its themes while keeping them thoroughly entertained. A balanced mix of depth and enjoyment."
+      }
+    ]
   },
   {
     "title": "War and Peace",
     "author": "Leo Tolstoy",
     "club_name": "Napoleonic Narratives",
     "description": "A deep dive into Tolstoy’s epic exploration of society, history, and philosophy.",
-    "members": 29
+    "members": 29,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Sergey",
+        "text": "Tolstoy's epic novel captures the vastness of Russian society and the intimacy of human emotion. A timeless classic that offers a profound exploration of history, love, and fate."
+      },
+      {
+        "id": 2,
+        "name": "Maria",
+        "text": "War and Peace is more than a book—it's an experience. Tolstoy's ability to bring characters and history to life is unparalleled, making this a must-read for any serious reader."
+      }
+    ]
   },
   {
     "title": "Harry Potter and the Chamber of Secrets",
     "author": "J.K. Rowling",
     "club_name": "Chamber Seekers",
     "description": "Continuing the wizarding journey with discussion on the second installment in Harry Potter’s adventures.",
-    "members": 111
+    "members": 111,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Ron",
+        "text": "Rowling once again invites readers into the enchanting world of Hogwarts. This sequel is filled with mystery, adventure, and the perfect dose of magic!"
+      },
+      {
+        "id": 2,
+        "name": "Harry",
+        "text": "The Chamber of Secrets offers a thrilling blend of intrigue and wonder. The plot twists keep you hooked, and the magical world feels as vivid as ever."
+      }
+    ]
   },
   {
     "title": "Little Women",
     "author": "Louisa May Alcott",
     "club_name": "March Sisters Circle",
     "description": "Fans of this beloved classic exploring themes of family, love, and independence.",
-    "members": 54
+    "members": 54,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Ravil",
+        "text": "The author weaves a tale that is both memorable and impactful. The story stays with you long after the final page is turned."
+      },
+      {
+        "id": 2,
+        "name": "Elvira",
+        "text": "This book offers a unique viewpoint that feels both refreshing and insightful. It sheds light on familiar themes in a new and captivating way."
+      }
+    ]
   },
   {
     "title": "Jane Eyre",
     "author": "Charlotte Brontë",
     "club_name": "The Thornfield Assemblage",
     "description": "Discussing governess life, Gothic romance, and the strong will of Jane Eyre.",
-    "members": 72
+    "members": 72,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Elena",
+        "text": "This book is a true delight to read. It strikes a perfect balance between entertainment and depth, making it enjoyable for all kinds of readers."
+      },
+      {
+        "id": 2,
+        "name": "Ayesha",
+        "text": "The story unfolds at just the right pace, keeping you engaged without feeling rushed. It’s a perfect blend of anticipation and satisfaction."
+      }
+    ]
   },
   {
     "title": "Wuthering Heights",
     "author": "Emily Brontë",
     "club_name": "Heathcliff’s Haven",
     "description": "A passionate group unraveling the haunting and complex love story on the moors.",
-    "members": 45
+    "members": 45,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Jin",
+        "text": "This book takes readers on a journey, offering twists and turns along the way. The storytelling is rich, and each chapter brings new surprises."
+      },
+      {
+        "id": 2,
+        "name": "Lizzie",
+        "text": "Whether you’re a fan of this genre or not, this book is worth picking up. It offers a great balance of entertainment and depth, making it a great addition to any bookshelf."
+      }
+    ]
   },
   {
     "title": "The Grapes of Wrath",
     "author": "John Steinbeck",
     "club_name": "Dust Bowl Dreamers",
     "description": "A community examining the struggles of the Great Depression and the resilience of the human spirit.",
-    "members": 31
+    "members": 31,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Jen",
+        "text": "There's a warmth to this book that makes it a joy to read. The story is filled with heart and offers a comforting, uplifting experience."
+      },
+      {
+        "id": 2,
+        "name": "Cedrick",
+        "text": "The author has clearly put a lot of effort into research, adding depth and authenticity to the story. It’s both educational and entertaining."
+      }
+    ]
   },
   {
     "title": "The Alchemist",
     "author": "Paulo Coelho",
     "club_name": "Personal Legend Club",
     "description": "Seekers of wisdom and destiny, reflecting on life's journey and self-discovery.",
-    "members": 102
+    "members": 102,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Tariq",
+        "text": "This book takes you on an emotional rollercoaster, with moments of joy, sadness, and everything in between. It’s a story that truly touches the heart."
+      },
+      {
+        "id": 2,
+        "name": "Yuki",
+        "text": "The characters in this book feel real and relatable. Their journeys are filled with depth, and you find yourself rooting for them from start to finish."
+      }
+    ]
   },
   {
     "title": "The Picture of Dorian Gray",
     "author": "Oscar Wilde",
     "club_name": "Portrait & Paradox",
     "description": "Exploring aesthetic philosophy, morality, and the cost of eternal youth.",
-    "members": 34
+    "members": 34,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Diego",
+        "text": "A perfect book for those looking to get lost in a different world. It offers a delightful escape from everyday life and leaves you feeling refreshed."
+      },
+      {
+        "id": 2,
+        "name": "Sofia",
+        "text": "This book keeps you on the edge of your seat with its well-paced plot and intriguing storyline. You’ll find it hard to put down!"
+      }
+    ]
   },
   {
     "title": "A Tale of Two Cities",
     "author": "Charles Dickens",
     "club_name": "Revolution Readers",
     "description": "A group discussing dualities of London and Paris during the French Revolution.",
-    "members": 71
+    "members": 71,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Emma",
+        "text": "This discussion really opened my eyes to new perspectives!"
+      },
+      {
+        "id": 2,
+        "name": "Fatima",
+        "text": "The author's writing style is captivating, with vivid descriptions and powerful prose. Each chapter feels thoughtfully crafted, making it a pleasure to read."
+      }
+    ]
   },
   {
     "title": "The Chronicles of Narnia",
     "author": "C.S. Lewis",
     "club_name": "Wardrobe Wanderers",
     "description": "Exploring the magical realm of Narnia, its allegories, and timeless adventures.",
-    "members": 120
+    "members": 120,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Patrick",
+        "text": "A book that not only entertains but also leaves you with plenty to think about. It offers fresh perspectives and insights that linger long after you've finished reading."
+      },
+      {
+        "id": 2,
+        "name": "Caroline",
+        "text": "This book draws you in from the first page and keeps you hooked until the very end. The storytelling is engaging, and the characters are wonderfully crafted."
+      }
+    ]
   },
   {
     "title": "Slaughterhouse-Five",
     "author": "Kurt Vonnegut",
     "club_name": "Tralfamadorian Tales",
     "description": "Fans dissecting the nonlinear narrative, wartime experiences, and philosophical musings.",
-    "members": 41
+    "members": 41,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Nick",
+        "text": "I hadn't remembered reading it when I was a child, but it might have been read to me..."
+      },
+      {
+        "id": 2,
+        "name": "Alice",
+        "text": "This picture book was such a delight."
+      }
+    ]
   },
   {
     "title": "Great Expectations",
     "author": "Charles Dickens",
     "club_name": "Pip’s Journey",
     "description": "Tracing the growth of Pip, class consciousness, and the transformative power of ambition.",
-    "members": 56
+    "members": 56,
+    "comments": [
+      {
+        "id": 1,
+        "name": "John",
+        "text": "The hype around this book has been unquestionable and, admittedly, that made me both eager to get my hands on it and terrified to read it"
+      },
+      {
+        "id": 2,
+        "name": "Carrie",
+        "text": "I am still dipping my toes into the literally fiction pool, finding what works for me and what doesn’t. "
+      }
+    ]
   },
   {
     "title": "Frankenstein",
     "author": "Mary Shelley",
     "club_name": "Creators & Creatures",
     "description": "Examining the ethics of creation, humanity, and scientific responsibility.",
-    "members": 44
+    "members": 44,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Anees",
+        "text": "An amazing book that looks"
+      },
+      {
+        "id": 2,
+        "name": "Fatima",
+        "text": "This discussion really opened my eyes to new perspectives!"
+      }
+    ]
   },
   {
     "title": "Sense and Sensibility",
     "author": "Jane Austen",
     "club_name": "Dashwood Discussions",
     "description": "Exploring love, manners, and family in another of Austen’s beloved novels.",
-    "members": 59
+    "members": 59,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Bogdan",
+        "text": "This book and i almost never met. and that would have been tragic."
+      },
+      {
+        "id": 2,
+        "name": "Malika",
+        "text": "TI hadn't remembered reading it when I was a child, but it might have been read to me..."
+      }
+    ]
   },
   {
     "title": "Don Quixote",
     "author": "Miguel de Cervantes",
     "club_name": "La Mancha Knights",
     "description": "A literary adventure focusing on chivalry, fantasy, and the blurred lines of reality.",
-    "members": 33
+    "members": 33,
+    "comments": [
+      {
+        "id": 1,
+        "name": "Ravi",
+        "text": "Such a deep discussion!"
+      },
+      {
+        "id": 2,
+        "name": "Zara",
+        "text": "This discussion really opened my eyes to new perspectives!"
+      }
+    ]
   }
 ]
