@@ -48,7 +48,7 @@ The BookBark provides a solution by allowing users to join discussions based on 
 
 ---
 
-## 📂 **API Endpoints**
+## **API Endpoints**
 
 | **Method** | **Endpoint**                      | **Description**                     |
 | ---------- | --------------------------------- | ----------------------------------- |
@@ -59,7 +59,7 @@ The BookBark provides a solution by allowing users to join discussions based on 
 
 ---
 
-## ⚙️**Prerequisites**
+## **Prerequisites**
 
 - **Node.js:** [Download & Install](https://nodejs.org/)
 - **MySQL:** Make sure MySQL is running and properly configured.
@@ -72,6 +72,7 @@ The BookBark provides a solution by allowing users to join discussions based on 
 
 ```bash
 git clone https://github.com/almanursultan/the-bookmark.git
-cd the-bookmark
+cd the-bookmark-capstone
 npm install
+node server.js
 ```
